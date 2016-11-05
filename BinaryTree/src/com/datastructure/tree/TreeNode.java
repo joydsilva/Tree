@@ -13,9 +13,6 @@ public class TreeNode {
 		System.out.println(data);
 	}
 	
-	public void inOrderTraversal(){
-		System.out.println(left.data +"--"+ data + "--"+right.data);
-	}
 	
 	
 
